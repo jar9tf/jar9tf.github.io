@@ -4,7 +4,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://jar9tf.github.io" # the base hostname & protocol for your site
 =======
 baseurl: "/jar9tf/jar9tf.github.io" # the subpath of your site, e.g. /blog/ (optional)
+<<<<<<< HEAD
 url: "http://jar9tf.github.io" # the base hostname & protocol for your site.
+>>>>>>> checkpoint-7-deploy-your-portfolio
+=======
+url: "http://jar9tf.github.io" # the base hostname & protocol for your site..
 >>>>>>> checkpoint-7-deploy-your-portfolio
 
 # THEME-SPECIFIC CONFIGURATION
