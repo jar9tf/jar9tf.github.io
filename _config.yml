@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/jar9tf/jar9tf.github.io" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://jar9tf.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
