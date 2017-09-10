@@ -1,7 +1,7 @@
---
+---
 layout: post
-title: Goals as a Frontend Web Developer
---
+title: "Goals as a Frontend Web Developer"
+---
 
 ##What made me want to be a front end developer
 

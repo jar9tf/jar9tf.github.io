@@ -1,7 +1,7 @@
---
+---
 layout: post
-title: what do I like to do
---
+title: "what do I like to do"
+---
 
 ##About me
 

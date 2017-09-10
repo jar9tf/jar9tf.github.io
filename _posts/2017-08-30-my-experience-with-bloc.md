@@ -1,7 +1,7 @@
---
+---
 layout: post
-title: My Experience at Bloc
---
+title: "My Experience at Bloc"
+---
 
 ##How I got started 
 
