@@ -1,7 +1,11 @@
+---
+
 layout: post
 title: BlocJams
 thumbnail-path: "../../bloc/bloc-jams/assets/images/bloc_jams_logo.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: BlocJams is a site to browse and purchase music online. 
+
+---
 
 ##Summary
 
